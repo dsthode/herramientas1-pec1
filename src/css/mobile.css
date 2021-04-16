@@ -1,0 +1,81 @@
+/*
+Modificaciones de los estilos para dispositivos tipo móvil
+*/
+
+@media only screen and (max-width:480px) {
+
+    .font-big {
+        font-size: 20px;
+    }
+
+/* Estilos de index */
+
+    .index-bloque-logo {
+        font-size: 40px;
+    }
+
+    .index-logo-word {
+        font-size: 40px;
+    }
+
+    .index-bloque-enlace {
+        width: 80vw;
+        margin: 0.5rem auto;
+        height: auto;
+        padding-bottom: 0.5rem;
+    }
+
+    .index-bloque-enlace-img {
+        width: 80%;
+        display: block;
+        margin: 0.5rem auto;
+    }
+
+/* Estilos de la cabecera */
+
+    .main-title {
+        font-size: 35px;
+    }
+
+    .header-menu {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .header-menu-item {
+        width: 100%;
+    }
+
+    .header-menu-link-wrapper::after {
+        content: none;
+    }
+
+/* Estilo de la pagina presentacion */
+
+    .presentacion {
+        padding: 0 1rem 1rem 1rem;
+    }
+
+    .presentacion-media {
+        width: 80%;
+        height: auto;
+    }
+
+/* Estilos de la lista de recetas */
+
+    .plato-image {
+        width: 90%;
+        height: auto;
+    }
+
+/* Estilos para las recetas */
+
+    .receta {
+        padding: 1rem 1rem 1rem 1rem;
+    }
+
+    .receta-image {
+        width: 80%;
+        height: auto;
+    }
+}

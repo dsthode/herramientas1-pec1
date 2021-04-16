@@ -98,6 +98,6 @@ En el ejemplo anterior se muestra cómo se incluye el archivo de la cabecera en 
 
 ## Enlaces
 
-La página web puede consultarse en la siguiente dirección: XXX
+La página web puede consultarse en la siguiente dirección: [https://pensive-raman-c3fbb8.netlify.app/](https://pensive-raman-c3fbb8.netlify.app/).
 
-Y el repositorio donde está alojado el código fuente de la página es el siguiente: XXX
+Y el repositorio donde está alojado el código fuente de la página es el siguiente: [https://github.com/dsthode/herramientas1-pec1](https://github.com/dsthode/herramientas1-pec1).
